@@ -5,5 +5,12 @@
   ...
 }: {
   languages.c.enable = true;
-  packages = with pkgs; [cmake make ninja gdb gcc-arm-embedded clang lldb];
+  packages = with pkgs; [
+    cmake
+    gcc
+    ninja
+    gdb
+    gcc-arm-embedded
+    lldb
+  ];
 }
