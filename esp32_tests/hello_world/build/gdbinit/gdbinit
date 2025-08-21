@@ -1,0 +1,2 @@
+source /home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/gdbinit/symbols
+source /home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/gdbinit/connect

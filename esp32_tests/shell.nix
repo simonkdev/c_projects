@@ -15,5 +15,6 @@ in
 
     buildInputs = with pkgs; [
       esp-idf-full
+      minicom
     ];
   }

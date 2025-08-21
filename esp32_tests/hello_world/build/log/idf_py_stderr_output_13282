@@ -1,0 +1,1 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/nix/store/bpy46298pwr5s6s7403inb4sk4mv3vx0-python3-3.12.11-env/bin/python3.12 -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=0 /home/simonkdev/Documents/06_C/esp32_tests/hello_world

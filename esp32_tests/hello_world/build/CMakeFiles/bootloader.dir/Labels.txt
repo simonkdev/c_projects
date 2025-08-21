@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/CMakeFiles/bootloader
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/CMakeFiles/bootloader.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/CMakeFiles/bootloader-complete.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

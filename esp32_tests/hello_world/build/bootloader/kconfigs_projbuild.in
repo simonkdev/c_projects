@@ -1,0 +1,5 @@
+source "/nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/bootloader/Kconfig.projbuild"
+source "/nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/esp_app_format/Kconfig.projbuild"
+source "/nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/esp_rom/Kconfig.projbuild"
+source "/nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/esptool_py/Kconfig.projbuild"
+source "/nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/partition_table/Kconfig.projbuild"
