@@ -26,7 +26,7 @@ Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/nix/store/bpy46298pwr5
 -- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
 -- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
 -- USING O3
--- App "hello_world" version: 3852261
+-- App "hello_world" version: 8654dd2-dirty
 -- Adding linker script /home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/esp-idf/esp_system/ld/memory.ld
 -- Adding linker script /home/simonkdev/Documents/06_C/esp32_tests/hello_world/build/esp-idf/esp_system/ld/sections.ld.in
 -- Adding linker script /nix/store/jw1ax40gn5lwdc06saiir3smjf14gxl0-esp-idf-v5.5/components/esp_rom/esp32s3/ld/esp32s3.rom.ld
